@@ -413,7 +413,7 @@ body {
 
 
 .bg-image {
-    background: url('./img/section8/signup-bg.png') no-repeat center center;
+    background: url('../img/section8/signup-bg.png') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 
